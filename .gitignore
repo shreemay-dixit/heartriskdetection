@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.venv/
+gapradar_ai/
+
+# IDE & OS Files
+.DS_Store
+.idea/
+.vscode/
+*.swp
